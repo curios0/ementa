@@ -60,9 +60,6 @@
     line-height: 21px;
     font-size: 18px;
   }
-  strong.price{
-    display: inline-block;
-  }  
   h1, h2,
   h3 .price{
     font-family: 'roboto serif', serif;
