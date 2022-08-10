@@ -60,7 +60,7 @@
     line-height: 21px;
     font-size: 18px;
   }
-  .price{
+  strong.price{
     display: inline-block;
   }  
   h1, h2,
