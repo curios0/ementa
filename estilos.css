@@ -9,6 +9,13 @@
   ul{
     list-style: none;
   }
+  a{
+    text-decoration: none;
+    Color: orange;
+  }
+  a::visited{
+    Color: red;
+  }
   header{
     padding: 32px 0;
     text-align: center;
