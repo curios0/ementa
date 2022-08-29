@@ -37,12 +37,12 @@
   }
   header p{
     font-weight: 400;
-  font-size: 14px;
-  line-height: 16px;
+    font-size: 14px;
+    line-height: 16px;
   color: rgba(0, 0, 0, 0.7);
   }
   section{
-  margin-bottom: 24px;
+    margin-bottom: 24px;
   }
   section h2{
     background: #32a5c4;
@@ -68,5 +68,5 @@
     color: rgba(0, 0, 0, 0.6);
     line-height: 21px;
     font-size: 14px;
-    *{
+    {
     
