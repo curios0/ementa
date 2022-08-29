@@ -40,7 +40,7 @@
     font-size: 14px;
     line-height: 16px;
     color: rgba(0, 0, 0, 0.7);
-    Animation: blink ease 2s forwards infinte;
+    Animation: blink ease 2s infinite;
   }
   @keyframes blink{
     50%{opacity: 0;}
