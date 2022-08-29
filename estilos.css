@@ -39,8 +39,13 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-  color: rgba(0, 0, 0, 0.7);
+    color: rgba(0, 0, 0, 0.7);
+    Animation: blink ease 2s forwards infinte;
   }
+  @keyframes blink{
+    50%{opacity: 0;}
+    100%{opacity: 100%;}
+    }
   section{
     margin-bottom: 24px;
   }
