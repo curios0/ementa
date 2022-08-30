@@ -35,7 +35,7 @@
   header h1 span{
     color: #37538c;
    }
-  header span{
+  span.break{
     display: block;
     Font-size: 14px;
     font-weight: 100px;
