@@ -17,6 +17,7 @@
     Color: red;
   }
   header{
+    Display: inline-block;
     padding: 32px 0;
     text-align: center;
   }
