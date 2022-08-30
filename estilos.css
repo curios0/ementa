@@ -36,7 +36,7 @@
     color: #37538c;
    }
   .break{
-    display: block;
+    display: inline-block;
     Font-size: 14px;
     font-weight: 100px;
    }
