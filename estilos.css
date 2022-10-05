@@ -35,7 +35,7 @@
   header h1 span{
     color: #37538c;
    }
-  h1.pos{
+  .pos{
     Display: inline-block;
    }
   .break{
