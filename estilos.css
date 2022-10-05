@@ -32,9 +32,6 @@
   h1{
     font-size: 28px;
   }
-  h1.pos{
-    display: none;
-  }
   header h1 span{
     color: #37538c;
    }
